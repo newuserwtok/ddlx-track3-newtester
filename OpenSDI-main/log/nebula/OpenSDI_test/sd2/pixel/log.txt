@@ -1,0 +1,1 @@
+{"test_pixel-level F1": 0.513195295681504, "test_pixel-level IOU": 0.44525035506713967, "test_pixel-level Accuracy": 0.935242977142334, "epoch": 0}
